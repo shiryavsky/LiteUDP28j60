@@ -1,0 +1,8 @@
+{
+    "arduino_folder": "/home/ad/arduino/arduino-1.0.5", 
+    "board": 0, 
+    "full_compilation": true, 
+    "platform": 1, 
+    "platform_name": "Arduino AVR Boards", 
+    "serial_port": 0
+}
